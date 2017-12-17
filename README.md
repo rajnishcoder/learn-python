@@ -1,2 +1,2 @@
-# python-test
-The repo for learning python
+# learn python
+For learning python
