@@ -14,3 +14,11 @@ def myFunction():
 print myFunction()	# print function directly 
 x = myFunction()	# store function in variable in x
 print x				# print variable x
+
+# creating your own function to print
+def printIt( str ):
+	print str
+	pass
+
+# passing a parameter in function
+printIt("Passing this srting to print in my own function.")
