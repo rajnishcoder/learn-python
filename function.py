@@ -23,9 +23,19 @@ def printIt( str ):
 # passing a parameter in function
 printIt("Passing this srting to print in my own function.")
 
-# Concatinating string example with parameter value
+# Concatenating string example with parameter value
 def appendFunction( mystr ):
 	print "this is default value", mystr
   	pass  
 
 appendFunction("and this is parameter value")
+
+# Example of Required arguments
+def printme( str ):
+   "This prints a passed string into this function"
+   print str
+   return;
+
+# Now you can call printme function
+printme() # this will through error // TypeError: printme() takes exactly 1 argument (0 given)
+printme("But not this") # this will print // But not this  
