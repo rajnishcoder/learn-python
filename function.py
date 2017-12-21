@@ -22,3 +22,10 @@ def printIt( str ):
 
 # passing a parameter in function
 printIt("Passing this srting to print in my own function.")
+
+# Concatinating string example with parameter value
+def appendFunction( mystr ):
+	print "this is default value", mystr
+  	pass  
+
+appendFunction("and this is parameter value")
