@@ -39,3 +39,12 @@ def printme( str ):
 # Now you can call printme function
 printme() # this will through error // TypeError: printme() takes exactly 1 argument (0 given)
 printme("But not this") # this will print // But not this  
+
+# Example of Keyword arguments
+
+def keyArg( str ):
+   print str
+   return;
+
+# Now you can call keyArg function
+keyArg( str = "My string")
