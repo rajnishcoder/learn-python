@@ -57,3 +57,14 @@ def multiKeyArg( name, age ):
 
 # Now you can call multiKeyArg function
 multiKeyArg( age=22, name="Rajnish" )
+
+# The return Statement
+def returnFun(arg1, arg2):
+	returnArg = arg1 + arg2
+	return returnArg
+	pass
+
+print(returnFun(10, 10))
+# you can store it in another variable too
+returnStorage = returnFun(10, 10);
+print(returnStorage);
