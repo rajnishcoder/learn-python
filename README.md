@@ -3,5 +3,6 @@ For learning python
 
 # Contents
 
-1. [functions](function.py)
+1. [Functions](function.py)
+2. [Variables](variables.py)
 
