@@ -5,4 +5,5 @@ For learning python
 
 1. [Functions](function.py)
 2. [Variables](variables.py)
+3. [Loops](loops.py)
 
