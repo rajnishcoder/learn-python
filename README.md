@@ -7,4 +7,5 @@ For learning python
 2. [Variables](variables.py)
 3. [Loops](loops.py)
 4. [Tuples](tuples.py)
+5. [Dictionary](dictionary.py)
 
