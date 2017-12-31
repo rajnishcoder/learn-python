@@ -1,6 +1,8 @@
 # Learn Python
 For learning python
 
+If you think you can contribute something so it will be appreciated 
+
 # Contents
 
 1. [Functions](function.py)
