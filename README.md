@@ -1,5 +1,5 @@
 # Learn Python
-For learning python
+For learning python (just practicing)
 
 If you think you can contribute something so it will be appreciated 
 
